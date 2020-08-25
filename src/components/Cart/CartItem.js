@@ -7,7 +7,7 @@ export default function CartItem({ item, value }) {
 
   return (
     <div className="row my-2 text-capitalize text-center">
-      {/*----------------------Columna N° 1------------------------------*/}
+      {/*----------------------Columna N° 1-----------------------------*/}
       <div className="col-10 mx-auto col-lg-2">
         <img
           src={img}
